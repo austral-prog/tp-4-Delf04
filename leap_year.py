@@ -1,5 +1,4 @@
 def leap_year():
-    print("TO DO")
 
     año_bisiesto = int(input("Ingrese un año: "))
 
